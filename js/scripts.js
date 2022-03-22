@@ -1,31 +1,6 @@
-// Business Logic ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// User Interface Logic --------------
-$(document). ready(function() {
-
-
-
+$(document).ready(function() {
+  $("p").click(function() {
+    $(".walrus-showing").toggle();
+    $(".walrus-hidden").toggle();
+  });
 });
