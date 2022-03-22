@@ -8,3 +8,13 @@
 .clickable:hover {
   text-decoration: underline;
 }
+img {
+width: 15cm;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #922267;
+}
+#dolphin {
+  display: none;
+}
