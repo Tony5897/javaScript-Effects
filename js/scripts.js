@@ -1,10 +1,17 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
-    $("#walrus-showing").fadeToggle();
-    $("#walrus-hidden").slideToggle();
-    });
-  $(".clickable2").click(function() {
-    $("#dolphin").fadeToggle();
-    $("#dolphin").slideToggle();
+  $("button#dark").click(function() {
+    $("body").removeClass();
+    $("body").addClass("black-background");
     }); 
+  
+  $("button#primary").click(function() {
+    $("body").removeClass();
+    $("body").addClass("light-background");
+    });  
+  
+  $("button#success").click(function() {
+    $("body").removeClass();
+    });  
 });
+
+

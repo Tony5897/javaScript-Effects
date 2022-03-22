@@ -15,6 +15,11 @@ width: 15cm;
   cursor: pointer;
   color: #922267;
 }
-#dolphin {
-  display: none;
+.black-background {
+  background-color: black;
+  color: white;
+}
+.light-background {
+  background-color: rgb(245, 227, 227);
+  color: black;
 }
