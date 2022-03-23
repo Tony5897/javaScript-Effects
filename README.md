@@ -1,4 +1,4 @@
-***By Tony Martinez***
+# ***By Tony Martinez & Evgeniya Meshuris ***
 
 
 # **javascript/jquery learning**
@@ -40,9 +40,5 @@
 
  ### License :
 https://opensource.org/licenses/MIT 
-
- _Questions, help with any issue? What to do?_
-
-
  #### Copyright(c)
-*MM/DD/YYYY Antonio Martinez*
+*03/22/2022 Antonio Martinez*
